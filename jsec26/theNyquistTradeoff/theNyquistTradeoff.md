@@ -97,7 +97,8 @@ long long power(long long base, long long exp) {
         exp /= 2;
     }
     return res;
-}```
+}
+```
 
 With that out of the way, we can now get to our main solver. We start by calculating our baby steps:
 
