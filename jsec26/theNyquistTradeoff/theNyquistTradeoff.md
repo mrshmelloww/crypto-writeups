@@ -211,4 +211,4 @@ The core lesson here is the **Reduction of Complexity**. By proving that the mat
 
 Ultimately, the challenge forced a trade-off between memory and time. We couldn't reserve infinite memory for a full $\sqrt{P}$ table, but by using the **Division Algorithm** to pick a feasible $m$, we proved that even massive state spaces can be traversed in minutes with the right mathematical leverage. If you don't understand the group your generator lives in, your "massive" period is just an illusion.
 
-##### [Check out the challenge files](https://github.com/mrshmelloww/crypto-writeups/tree/main/cybereto/theLeakyDevice/challengeFiles)
+##### [Check out the challenge files](https://github.com/mellcww/crypto-writeups/tree/main/jsec26/theNyquistTradeoff/challengeFiles)
